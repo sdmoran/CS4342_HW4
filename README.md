@@ -2,15 +2,15 @@
 ### Sam Moran
 
 ### STRUCTURE
-Problems 1-4 are in Assignment3_writeup.docx. Problems 5 and 6 are Jupyter Lab notebooks labeled as such.
+Problems 1 and 2 are in Assignment4_Writeup.docx. Problems 3 through 6 are in Jupyter notebooks with corresponding labels.
 
 ### HOW TO RUN
 - Extract contents of this zip file to a folder
 - From command line, run
-    jupyter lab
+    `jupyter lab`
     
 - Open the corresponding notebook from the Jupyter Lab file explorer.
-- When running code for problems 5 and 6, make sure to run code from top to bottom; some sections of the notebooks rely on code in previous steps.
+- When running code for each problem, make sure to run code from top to bottom; some sections of the notebooks rely on code in previous steps.
 
 ### Requirements and Versions
 
